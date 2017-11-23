@@ -1,0 +1,426 @@
+{
+    "4": {
+        "tag": "gdesf",
+        "type": "esf",
+        "name": "广东11选5",
+        "logo": "logo_gdesf",
+        "WFExplain":"lottery_gdesf_help",
+        "KaiJiangTip":"09:10~23:00，10分钟一期，全天84期。",
+        "isShowType":"0"
+    },
+    "5": {
+        "tag": "jxesf",
+        "type": "esf",
+        "name": "江西11选5",
+        "logo": "logo_jxesf",
+        "WFExplain":"lottery_jxesf_help",
+        "KaiJiangTip":"09:10~23:00，10分钟一期，全天84期。",
+        "isShowType":"0"
+    },
+    "9": {
+        "tag": "bjklb",
+        "type": "kl8",
+        "name": "北京快乐8",
+        "logo": "logo_bjklb",
+        "WFExplain":"lottery_bjklb_help",
+        "KaiJiangTip":"09:00-23:55，5分钟一期，全天179期。",
+        "isShowType":"0"
+    },
+    "10": {
+        "tag": "pks",
+        "type": "pks",
+        "name": "北京PK拾",
+        "logo": "logo_pks",
+        "WFExplain":"lottery_pks_help",
+        "KaiJiangTip":"09:07-23:57，5分钟一期，全天179期。",
+        "isShowType":"0"
+    },
+    "12": {
+        "tag": "cqssc",
+        "type": "ssc",
+        "name": "重庆时时彩",
+        "logo": "logo_cqssc",
+        "WFExplain":"lottery_cqssc_help",
+        "KaiJiangTip":"白天10:00~21:50，10分钟一期;夜间 22:00 ~ 凌晨02:00 ，5分钟一期；全天共120期。",
+        "isShowType":"1"
+    },
+    "14": {
+        "tag": "xjssc",
+        "type": "ssc",
+        "name": "新疆时时彩",
+        "logo": "logo_xjssc",
+        "WFExplain":"lottery_xjssc_help",
+        "KaiJiangTip":"10:10~凌晨02:00，10分钟一期，全天96期。",
+        "isShowType":"2"
+    },
+    "15": {
+        "tag": "shssl",
+        "type": "ssl",
+        "name": "上海时时乐",
+        "logo": "logo_shssl",
+        "WFExplain":"lottery_shssl_help",
+        "KaiJiangTip":"10:30~22:00，30分钟一期，全天23期。",
+        "isShowType":"0"
+    },
+    "16": {
+        "tag": "sdesf",
+        "type": "esf",
+        "name": "山东11选5",
+        "logo": "logo_sdesf",
+        "WFExplain":"lottery_sdesf_help",
+        "KaiJiangTip":"08:35~22:55，10分钟一期，全天87期。",
+        "isShowType":"0"
+    },
+    "17": {
+        "tag": "pls",
+        "type": "pls",
+        "name": "排列三",
+        "logo": "logo_pls",
+        "WFExplain":"lottery_pls_help",
+        "KaiJiangTip":"每天一期，开奖时间为20:30。",
+        "isShowType":"0"
+    },
+    "18": {
+        "tag": "plw",
+        "type": "plw",
+        "name": "排列五",
+        "logo": "logo_plw",
+        "WFExplain":"lottery_plw_help",
+        "KaiJiangTip":"每天一期，开奖时间为20:30。",
+        "isShowType":"0"
+    },
+    "19": {
+        "tag": "fcsd",
+        "type": "sd",
+        "name": "福彩3D",
+        "logo": "logo_fcsd",
+        "WFExplain":"lottery_fcsd_help",
+        "KaiJiangTip":"每天一期，开奖时间为21:15。",
+        "isShowType":"0"
+    },
+    "21": {
+        "tag": "jskstb",
+        "type": "tb",
+        "name": "江苏骰宝",
+        "logo": "logo_jskstb",
+        "WFExplain":"",
+        "KaiJiangTip":"",
+        "isShowType":"0"
+    },
+    "26": {
+        "tag": "jsks",
+        "type": "k3",
+        "name": "江苏快3",
+        "logo": "logo_jsks",
+        "WFExplain":"lottery_jsks_help",
+        "KaiJiangTip":"08:40-22:10，10分钟一期，全天82期。",
+        "isShowType":"0"
+        
+    },
+    "50": {
+        "tag": "mmc",
+        "type": "ssc",
+        "name": "极限秒秒彩",
+        "logo": "logo_mmc",
+        "WFExplain":"lottery_mmc_help",
+        "KaiJiangTip":"24小时售卖，投注即开奖。",
+        "isShowType":"0"
+    },
+    "51": {
+        "tag": "jsffc",
+        "type": "ssc",
+        "name": "天利1分彩",
+        "logo": "logo_jsffc",
+        "WFExplain":"lottery_jsffc_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    },
+    "53": {
+        "tag": "jssfc",
+        "type": "ssc",
+        "name": "天利3分彩",
+        "logo": "logo_jssfc",
+        "WFExplain":"lottery_jssfc_help",
+        "KaiJiangTip":"24小时售卖，3分钟一期，全天共480期。",
+        "isShowType":"0"
+    },
+    "55": {
+        "tag": "bxwfc",
+        "type": "ssc",
+        "name": "天利5分彩",
+        "logo": "logo_bxwfc",
+        "WFExplain":"lottery_bxwfc_help",
+        "KaiJiangTip":"24小时售卖，5分钟一期，全天共288期。",
+        "isShowType":"0"
+    },
+    "56": {
+        "tag": "blydwfc",
+        "type": "ssc",
+        "name": "韩国1.5分彩",
+        "logo": "logo_blydwfc",
+        "WFExplain":"lottery_blydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00 ，其中04:00 至 05:00，中间停1小时。1.5分钟一期，全天920期。",
+        "isShowType":"0"
+    },
+    "57": {
+        "tag": "txffc",
+        "type": "ssc",
+        "name": "腾讯分分彩",
+        "logo": "logo_txffc",
+        "WFExplain":"lottery_txffc_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    },
+    "58": {
+        "tag": "qqffc",
+        "type": "ssc",
+        "name": "QQ分分彩",
+        "logo": "logo_qqffc",
+        "WFExplain":"lottery_qqffc_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    },
+    "61": {
+        "tag": "jsesf",
+        "type": "esf",
+        "name": "11选5分分彩",
+        "logo": "logo_jsesf",
+        "WFExplain":"lottery_jsesf_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    },
+    "63": {
+        "tag": "ksesf",
+        "type": "esf",
+        "name": "11选5三分彩",
+        "logo": "logo_ksesf",
+        "WFExplain":"lottery_ksesf_help",
+        "KaiJiangTip":"24小时售卖，3分钟一期，全天共480期。",
+        "isShowType":"0"
+    },
+    "66": {
+        "tag": "blanydwfc",
+        "type": "ssc",
+        "name": "菲律宾1.5分彩",
+        "logo": "logo_blanydwfc",
+        "WFExplain":"lottery_blanydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00 ，1.5分钟一期，全天960期。",
+        "isShowType":"0"
+    },
+    "71": {
+        "tag": "tjssc",
+        "type": "ssc",
+        "name": "天津时时彩",
+        "logo": "logo_tjssc",
+        "WFExplain":"lottery_tjssc_help",
+        "KaiJiangTip":"09:00~23:00，10分钟一期，全天84期。",
+        "isShowType":"0"
+    },
+    "72": {
+        "tag": "hgydwfc",
+        "type": "ssc",
+        "name": "老韩国1.5分彩",
+        "logo": "logo_hgydwfc",
+        "WFExplain":"lottery_hgydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00,其中05:00 至 07:00,中间停2小时。每1.5分钟1期 共880期。",
+        "isShowType":"0"
+    },
+    "73": {
+        "tag": "twwfc",
+        "type": "ssc",
+        "name": "台湾五分彩",
+        "logo": "logo_twwfc",
+        "WFExplain":"lottery_twwfc_help",
+        "KaiJiangTip":"07:05-23:55，5分钟一期，全天203期。",
+        "isShowType":"0"
+    },
+    "74": {
+        "tag": "xjplfc",
+        "type": "ssc",
+        "name": "新加坡2分彩",
+        "logo": "logo_xjplfc",
+        "WFExplain":"lottery_xjplfc_help",
+        "KaiJiangTip":"00:00 — 24:00，其中06:00至08:00，中间停2小时。每2分钟1期，共660期。",
+        "isShowType":"0"
+    },
+    "75": {
+        "tag": "djydwfc",
+        "type": "ssc",
+        "name": "东京1.5分彩",
+        "logo": "logo_djydwfc",
+        "WFExplain":"lottery_djydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00 ，其中07:00至08:00，中间停1小时，1.5分钟一期，全天920期。",
+        "isShowType":"0"
+    },
+    "76": {
+        "tag": "jndsdwfc",
+        "type": "ssc",
+        "name": "加拿大3.5分彩",
+        "logo": "logo_jndsdwfc",
+        "WFExplain":"lottery_jndsdwfc_help",
+        "KaiJiangTip":"20:00至隔天19:00，3.5分钟一期，全天338期。",
+        "isShowType":"0"
+    },
+    "77": {
+        "tag": "shesf",
+        "type": "esf",
+        "name": "上海11选5",
+        "logo": "logo_shesf",
+        "WFExplain":"lottery_shesf_help",
+        "KaiJiangTip":"09:00-23:50  10分钟一期，全天90期。",
+        "isShowType":"0"
+    },
+    "78": {
+        "tag": "ahesf",
+        "type": "esf",
+        "name": "安徽11选5",
+        "logo": "logo_ahesf",
+        "WFExplain":"lottery_ahesf_help",
+        "KaiJiangTip":"08:40-22:00  10分钟一期，全天81期。"
+    },
+    "79": {
+        "tag": "hgklb",
+        "type": "kl8",
+        "name": "韩国快乐8",
+        "logo": "logo_hgklb",
+        "WFExplain":"lottery_hgklb_help",
+        "KaiJiangTip":"早7:00-凌晨5:00，1.5分钟一期，全天880期。",
+        "isShowType":"0"
+    },
+    "80": {
+        "tag": "twklb",
+        "type": "kl8",
+        "name": "台湾快乐8",
+        "logo": "logo_twklb",
+        "WFExplain":"lottery_twklb_help",
+        "KaiJiangTip":"7:05-23:55，5分钟一期，全天203期。",
+        "isShowType":"0"
+    },
+    "81": {
+        "tag": "jlks",
+        "type": "k3",
+        "name": "吉林快3",
+        "logo": "logo_jlks",
+        "WFExplain":"lottery_jlks_help",
+        "KaiJiangTip":"08:30-21:30，10分钟1期，全天87期 。",
+        "isShowType":"0"
+    },
+    "82": {
+        "tag": "ahks",
+        "type": "k3",
+        "name": "安徽快3",
+        "logo": "logo_ahks",
+        "WFExplain":"lottery_ahks_help",
+        "KaiJiangTip":"08:50-22:00，10分钟1期，全天80期。",
+        "isShowType":"0"
+    },
+    "83": {
+        "tag": "hbks",
+        "type": "k3",
+        "name": "湖北快3",
+        "logo": "logo_hbks",
+        "WFExplain":"lottery_hbks_help",
+        "KaiJiangTip":"9:10-22:00 ，10分钟1期，全天78期。",
+        "isShowType":"0"
+    },
+    "84": {
+        "tag": "ffsd",
+        "type": "sd",
+        "name": "3D分分彩",
+        "logo": "logo_ffsd",
+        "WFExplain":"lottery_ffsd_help",
+        "KaiJiangTip":"1分钟1期，24小时售卖",
+        "isShowType":"0"
+    },
+    "85": {
+        "tag": "jsuesf",
+        "type": "esf",
+        "name": "江苏11选5",
+        "logo": "logo_jsuesf",
+        "WFExplain":"lottery_jsuesf_help",
+        "KaiJiangTip":"08:35~22:05，10分钟一期，全天82期。",
+        "isShowType":"0"
+    },
+    "86": {
+        "tag": "bjssc",
+        "type": "ssc",
+        "name": "北京时时彩",
+        "logo": "logo_bjssc",
+        "WFExplain":"lottery_bjssc_help",
+        "KaiJiangTip":"09:00 — 23:55,每5分钟开奖一次，全天共179期。",
+        "isShowType":"0"
+    },
+    "87": {
+        "tag": "jlkstb",
+        "type": "tb",
+        "name": "吉林骰宝",
+        "logo": "logo_jlkstb",
+        "WFExplain":"",
+        "KaiJiangTip":"",
+        "isShowType":"0"
+    },
+    "88": {
+        "tag": "ahkstb",
+        "type": "tb",
+        "name": "安徽骰宝",
+        "logo": "logo_ahkstb",
+        "WFExplain":"",
+        "KaiJiangTip":"",
+        "isShowType":"0"
+    },
+    "89": {
+        "tag": "hbkstb",
+        "type": "tb",
+        "name": "湖北骰宝",
+        "logo": "logo_hbkstb",
+        "WFExplain":"",
+        "KaiJiangTip":"",
+        "isShowType":"0"
+    },
+    "90": {
+        "tag": "cqklsf",
+        "type": "klsf",
+        "name": "重庆幸运农场",
+        "logo": "logo_cqklsf",
+        "WFExplain":"lottery_cqklsf_help",
+        "KaiJiangTip":"白天10:00-02:00 ，10分钟一期；全天共97期。",
+        "isShowType":"0"
+    },
+    "43": {
+        "tag": "wxydwfc",
+        "type": "ssc",
+        "name": "微信1.5分彩",
+        "logo": "logo_wxydwfc",
+        "WFExplain":"lottery_wxydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00 ，1.5分钟一期，全天960期。",
+        "isShowType":"0"
+    },
+    "44": {
+        "tag": "ldydwfc",
+        "type": "ssc",
+        "name": "巴黎1.5分彩",
+        "logo": "logo_ldydwfc",
+        "WFExplain":"lottery_ldydwfc_help",
+        "KaiJiangTip":"00:00 — 24:00 ，1.5分钟一期，全天960期。",
+        "isShowType":"0"
+    },
+    "48": {
+        "tag": "tenxffc",
+        "type": "ssc",
+        "name": "腾讯分分彩",
+        "logo": "logo_tenxffc",
+        "WFExplain":"lottery_tenxffc_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    },
+    "49": {
+        "tag": "wbffc",
+        "type": "ssc",
+        "name": "微博分分彩",
+        "logo": "logo_wbffc",
+        "WFExplain":"lottery_wbffc_help",
+        "KaiJiangTip":"24小时售卖，1分钟一期，全天共1440期。",
+        "isShowType":"0"
+    }
+    
+}

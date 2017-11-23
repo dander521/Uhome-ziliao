@@ -1,0 +1,254 @@
+{
+    "jsffc": {
+        "name": "天利1分彩",
+        "lotteryId": "51",
+        "logo": "ffc.png",
+        "type": "ssc"
+    },
+    "jssfc": {
+        "name": "天利3分彩",
+        "lotteryId": "53",
+        "logo": "3fc.png",
+        "type": "ssc"
+    },
+    "bxwfc": {
+        "name": "天利5分彩",
+        "lotteryId": "55",
+        "logo": "5fc.png",
+        "type": "ssc"
+    },
+    "mmc": {
+        "name": "极限秒秒彩",
+        "lotteryId": "50",
+        "logo": "mmc.png",
+        "type": "ssc"
+    },
+    "cqssc": {
+        "name": "重庆时时彩",
+        "lotteryId": "12",
+        "logo": "cqssc.png",
+        "type": "ssc"
+    },
+    "tjssc": {
+        "name": "天津时时彩",
+        "lotteryId": "71",
+        "logo": "tjssc.png",
+        "type": "ssc"
+    },
+    "xjssc": {
+        "name": "新疆时时彩",
+        "lotteryId": "14",
+        "logo": "xjssc.png",
+        "type": "ssc"
+    },
+    "hgydwfc": {
+        "name": "老韩国1.5分彩",
+        "lotteryId": "72",
+        "logo": "hgydwfc.png",
+        "type": "ssc"
+    },
+    "blydwfc": {
+        "name": "韩国1.5分彩",
+        "lotteryId": "56",
+        "logo": "blydwfc.png",
+        "type": "ssc"
+    },
+    "djydwfc": {
+        "name": "东京1.5分彩",
+        "lotteryId": "75",
+        "logo": "djydwfc.png",
+        "type": "ssc"
+    },
+    "twwfc": {
+        "name": "台湾五分彩",
+        "lotteryId": "73",
+        "logo": "twwfc.png",
+        "type": "ssc"
+    },
+    "jndsdwfc": {
+        "name": "加拿大3.5分彩",
+        "lotteryId": "76",
+        "logo": "jndsdwfc.png",
+        "type": "ssc"
+    },
+    "xjplfc": {
+        "name": "新加坡2分彩",
+        "lotteryId": "74",
+        "logo": "xjplfc.png",
+        "type": "ssc"
+    },
+    "txffc": {
+        "name": "腾讯分分彩",
+        "lotteryId": "57",
+        "logo": "txffc.png",
+        "type": "ssc"
+    },
+    "qqffc": {
+        "name": "QQ分分彩",
+        "lotteryId": "58",
+        "logo": "qqffc.png",
+        "type": "ssc"
+    },
+    "bjssc": {
+        "name": "北京时时彩",
+        "lotteryId": "86",
+        "logo": "bjssc.png",
+        "type": "ssc"
+    },
+    "blanydwfc": {
+        "name": "菲律宾1.5分彩",
+        "lotteryId": "66",
+        "logo": "blanydwfc.png",
+        "type": "ssc"
+    },
+    "jsesf": {
+        "name": "11选5分分彩",
+        "lotteryId": "61",
+        "logo": "jsesf.png",
+        "type": "esf"
+    },
+    "ksesf": {
+        "name": "11选5三分彩",
+        "lotteryId": "63",
+        "logo": "ksesf.png",
+        "type": "esf"
+    },
+    "gdesf": {
+        "name": "广东11选5",
+        "lotteryId": "4",
+        "logo": "gd11xuan5.png",
+        "type": "esf"
+    },
+    "jxesf": {
+        "name": "江西11选5",
+        "lotteryId": "5",
+        "logo": "jx11xuan5.png",
+        "type": "esf"
+    },
+    "shesf": {
+        "name": "上海11选5",
+        "lotteryId": "77",
+        "logo": "sh11xuan5.png",
+        "type": "esf"
+    },
+    "ahesf": {
+        "name": "安徽11选5",
+        "lotteryId": "78",
+        "logo": "ah11xuan5.png",
+        "type": "esf"
+    },
+    "sdesf": {
+        "name": "山东11选5",
+        "lotteryId": "16",
+        "logo": "sd11xuan5.png",
+        "type": "esf"
+    },
+    "jsuesf": {
+        "name": "江苏11选5",
+        "lotteryId": "85",
+        "logo": "jsuesf.png",
+        "type": "esf"
+    },
+    "fcsd": {
+        "name": "福彩3D",
+        "lotteryId": "19",
+        "logo": "fc_sd.png",
+        "type": "sd"
+    },
+    "ffsd": {
+        "name": "3D分分彩",
+        "lotteryId": "84",
+        "logo": "ff_sd.png",
+        "type": "sd"
+    },
+    "pls": {
+        "name": "排列三",
+        "lotteryId": "17",
+        "logo": "pl3.png",
+        "type": "pls"
+    },
+    "plwv": {
+        "name": "排列五",
+        "lotteryId": "18",
+        "logo": "pl5.png",
+        "type": "plw"
+    },
+    "shssl": {
+        "name": "上海时时乐",
+        "lotteryId": "15",
+        "logo": "shssl.png",
+        "type": "ssl"
+    },
+    "bjklb": {
+        "name": "北京快乐8",
+        "lotteryId": "9",
+        "logo": "bjkl8.png",
+        "type": "kl8"
+    },
+    "hgklb": {
+        "name": "韩国快乐8",
+        "lotteryId": "79",
+        "logo": "hgkl8.png",
+        "type": "kl8"
+    },
+    "twklb": {
+        "name": "台湾快乐8",
+        "lotteryId": "80",
+        "logo": " twkl8.png",
+        "type": "kl8"
+    },
+    "pks": {
+        "name": "北京PK拾",
+        "lotteryId": "10",
+        "logo": "pkshi.png",
+        "type": "pks"
+    },
+    "jsks": {
+        "name": "江苏快3",
+        "lotteryId": "26",
+        "logo": "jsks.png",
+        "type": "k3"
+    },
+    "jlks": {
+        "name": "吉林快3",
+        "lotteryId": "81",
+        "logo": "jlks.png",
+        "type": "k3"
+    },
+    "ahks": {
+        "name": "安徽快3",
+        "lotteryId": "82",
+        "logo": "ahks.png",
+        "type": "k3"
+    },
+    "hbks": {
+        "name": "湖北快3",
+        "lotteryId": "83",
+        "logo": "hbks.png",
+        "type": "k3"
+    },
+    "jskstb": {
+        "name": "江苏骰宝",
+        "lotteryId": "21",
+        "logo": "jsks.png",
+        "type": "tb"
+    },
+    "jlkstb": {
+        "name": "吉林骰宝",
+        "lotteryId": "87",
+        "logo": "jlks.png",
+        "type": "tb"
+    },
+    "ahkstb": {
+        "name": "安徽骰宝",
+        "lotteryId": "88",
+        "logo": "ahks.png",
+        "type": "tb"
+    },
+    "hbkstb": {
+        "name": "湖北骰宝",
+        "lotteryId": "89",
+        "logo": "hbks.png",
+        "type": "tb"
+    }
+}

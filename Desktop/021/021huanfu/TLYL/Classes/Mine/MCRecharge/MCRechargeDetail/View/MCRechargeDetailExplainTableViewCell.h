@@ -1,0 +1,14 @@
+//
+//  MCRechargeDetailExplainTableViewCell.h
+//  TLYL
+//
+//  Created by MC on 2017/8/9.
+//  Copyright © 2017年 TLYL01. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MCRechargeDetailExplainTableViewCell : UITableViewCell
++(CGFloat)computeHeight:(id)info;
+@property (nonatomic,strong) id dataSource;
+@end

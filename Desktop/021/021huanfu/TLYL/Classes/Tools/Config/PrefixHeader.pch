@@ -1,0 +1,36 @@
+//
+//  PrefixHeader.pch
+//  TLYL
+//
+//  Created by miaocai on 2017/6/1.
+//  Copyright © 2017年 TLYL01. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+#import"UIView+Frame.h"
+#import"TLYL-Swift.h"
+#import "Masonry.h"
+#import "MCGlobelConst.h"
+#import "MJExtension.h"
+#import "MCLotteryID.h"
+#import "MCBasePWFModel.h"
+#import <SVProgressHUD/SVProgressHUD.h>
+#import "UIColor+MCColor.h"
+#import "MCMathUnits.h"
+#import "MCApiHeader.h"
+#import "ExceptionView.h"
+#import "BKIndicationView.h"
+
+
+typedef NS_ENUM(NSInteger, Type_MCBet) {
+    MMCBET=0,
+    OTHERBET,
+};
+
+
+
+#endif /* PrefixHeader_pch */

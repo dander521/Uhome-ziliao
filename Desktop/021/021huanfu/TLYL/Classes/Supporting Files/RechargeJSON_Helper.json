@@ -1,0 +1,348 @@
+{
+
+    "16": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "5", "name" : "在线支付" },
+    
+    "17": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "8", "name" : "在线支付" },
+
+    "19": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "9", "name" : "在线支付" },
+
+    "20": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "14", "name" : "在线支付" },
+    
+    "21": { "IsMobile" : "0","IsOnline" : "0", "typeID" : "15", "name" : "" },
+    "22": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "16", "name" : "" },
+    
+    "23": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "18", "name" : "" },
+    
+    "24": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "19", "name" : "" },
+    
+    "25": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "20", "name" : "" },
+    
+    "26": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "21", "name" : "" },
+    
+    "27": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "22", "name" : "WECHAT" },
+    
+    "28": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "23", "name" : "NOCARD" },
+    "29": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "24", "name" : "" },
+
+    "30": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "25", "name" : "" },
+    
+    "31": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "26","name" : "gfbapp" },
+
+    "32": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "32", "name" : "" },
+    "33": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "33", "name" : "wechat" },
+    
+    "34": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "34", "name" : "" },
+    
+    "35": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "35", "name" : "wechat" },
+    
+    "36": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "36", "name" : "wechat" },
+    
+    "37": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "37", "name" : "" },
+    "38": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "38", "name" : "wechat" },
+    
+    "39": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "39", "name" : "wechat" },
+    
+    "40": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "40", "name" : "" },
+    
+    "41": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "41", "name" : "wechat" },
+    
+    "42": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "42", "name" : "wechat" },
+    
+    "43": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "43", "name" :["icbc",
+                 "abc",
+                 "ccb",
+                 "cmb",
+                 "spdb",
+                 "cmbc",
+                 "boc",
+                  "ceb",
+                  "psbc",
+                  "hxb",
+                  "cib",
+                  "gdb",
+                  "cpb",
+                  "ecitic",
+                  "comm"
+                ],
+        "onlinePay":"true"
+    },
+
+    "44": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "44", "name" : "NOCARD" },
+
+    "45": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "45", "name" : "alipay" },
+
+    "47": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "47", "name" : "qqpay"},
+
+    "48": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "48", "name" : "wechat" },
+
+    "50": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "50", "name" : "" },
+
+    "51": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "51", "name" : "HRPAY" },
+
+    "52": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "52", "name" :
+        
+        [
+         "icbc",
+         "abc",
+         "ccb",
+         "cmb",
+         "boc",
+         "ceb",
+         "hxb",
+         "gdb",
+         "ecitic",
+         "bob",
+         "cmbc"
+         ],
+        
+        "fastPay":"true" },
+    "53": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "53", "name" :["icbc",
+                  "abc",
+                  "ccb",
+                  "cmb",
+                  "spdb",
+                  "cmbc",
+                  "boc",
+                  "ceb",
+                  "psbc",
+                  "bos",
+                  "nbb",
+                  "hxb",
+                  "cib",
+                  "ecitic",
+                  "comm"],
+        "onlinePay":"true"
+    },
+
+    "54": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "54", "name" : "wechat" },
+    
+    "55": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "55", "name" : "alipay" },
+    
+    "57": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "57", "name" : "alipay" },
+    
+    "58": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "58", "name" : "qqpay" },
+    "59": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "59", "name" : "qqpay" },
+    "61": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "61", "name" : "WECHAT" },
+    "62": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "62", "name" : "" },
+    "63": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "63", "name" : "wechat" },
+    "64": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "64", "name" : "qqpay" },
+    "65": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "65", "name" : "wechat" },
+    "66": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "66", "name" : "qqpay" },
+    "67": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "67", "name" : "alipay" },
+    "68": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "68", "name" :
+        [
+         "icbc",
+         "abc",
+         "ccb",
+         "boc",
+         "hxb",
+         "ceb",
+         "bos",
+         "cmb",
+         "cmbc",
+         "cib",
+         "psbc",
+         "comm",
+         "cpb",
+         "ecitic",
+         "spdb",
+         "gdb",
+         "bob"
+         ],
+        "onlinePay":"true"
+    },
+    "69": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "69", "name" : "qqpay" },
+    "70": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "70", "name" : "wechat" },
+    "71": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "71", "name" :
+        ["icbc",
+         "abc",
+         "ccb",
+         "boc",
+         "ceb",
+         "cmb",
+         "cmbc",
+         "cib",
+         "psbc",
+         "ecitic",
+         "gdb",
+         "cpb",
+         "comm",
+         "bob"
+         ],
+        "onlinePay":"true"
+        
+    },
+    "73": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "73", "name" : "wechat" },
+    "74": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "74", "name" : "alipay" },
+    "75": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "75", "name" : "" },
+    "76": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "76", "name" : "alipay" },
+    "77": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "77", "name" : "qqpay" },
+    "78": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "78", "name" : "wechat" },
+    "79": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "79", "name" :
+        ["icbc",
+         "abc",
+         "ccb",
+         "cmb",
+         "spdb",
+         "cmbc",
+         "boc",
+         "ceb",
+         "psbc",
+         "bos",
+         "hxb",
+         "cib",
+         "gdb",
+         "cpb",
+         "ecitic",
+         "hzb",
+         "bob",
+         "comm"
+         ],
+        "onlinePay":"true"
+    },
+    
+    "80": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "80", "name" : "jd" },
+    "81": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "81", "name" : "baidu" },
+    "82": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "82", "name" : "jd" },
+    "83": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "83", "name" : "qqpay" },
+    "84": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "84", "name" : "wechat" },
+    
+    "85": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "85", "name" :
+        ["icbc",
+         "abc",
+         "boc",
+         "ccb",
+         "comm",
+         "ecitic",
+         "ceb",
+         "hxb",
+         "cmbc",
+         "gdb",
+         "cpb",
+         "cmb",
+         "cib",
+         "spdb",
+         "bob",
+         "psbc"
+         ],
+        "onlinePay":"true"
+    },
+    
+    "86": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "86", "name" :
+        ["cmb",
+         "icbc",
+         "ccb",
+         "boc",
+         "abc",
+         "ecitic",
+         "ceb",
+         "cmbc",
+         "hxb",
+         "psbc",
+         "bob"
+         ],
+        "onlinePay":"true"
+    },
+    
+    "87": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "87", "name" : "qqpay" },
+    "88": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "88", "name" : "wechat" },
+    "89": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "89", "name" : "jd" },
+    "90": { "IsMobile" : "0", "IsOnline" : "1", "typeID" : "90", "name" : "NOCARD"},
+    "91": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "91", "name" :
+        ["icbc",
+         "ccb",
+         "boc",
+         "abc",
+         "comm",
+         "gdb",
+         "ceb",
+         "cmbc",
+         "psbc",
+         "bob",
+         "bos"
+         ] ,
+        "onlinePay":"true"
+    },
+    "92": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "92", "name" : "qqpay" },
+    "93": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "93", "name" : "wechat" },
+    "94": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "94", "name" : "jd" },
+    "95": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "95", "name" : "NOCARD" },
+    "96": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "96", "name" : "alipay" },
+    "97": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "97", "name" :
+        ["icbc",
+         "ccb",
+         "boc",
+         "abc",
+         "comm",
+         "cmb",
+         "cmbc",
+         "ceb",
+         "bob",
+         "bos",
+         "nbb",
+         "hxb",
+         "cib",
+         "psbc",
+         "cpb",
+         "spdb",
+         "ecitic",
+         "hzb",
+         "gdb"
+         ] ,
+        "onlinePay":"true"
+        
+    },
+    
+    "98": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "98", "name" : "qqpay" },
+    "99": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "99", "name" : "wechat" },
+    "100": { "IsMobile" : "1", "IsOnline" : "1", "typeID" : "100", "name" : "alipay" },
+    "151": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "6", "name" : "icbc" },
+    
+    "152": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "12", "name" : "cmb" },
+    
+    "153": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "11", "name" : "ccb" },
+    
+    "154": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "10", "name" : "alipay" },
+    
+    "155": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "13", "name" : "tenpay" },
+    
+    "156": { "IsMobile" : "1", "IsOnline" : "0", "typeID" : "17", "name" : "cmbc" },
+    
+    "157": { "IsMobile" : "0", "IsOnline" : "0", "typeID" : "157", "name" : "alipay" }
+    
+        
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
